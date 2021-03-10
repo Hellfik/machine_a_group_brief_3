@@ -10,7 +10,7 @@ Nous allons revenir sur le projet machine à groupe, l'objectif sera d'améliore
 **L'objectif** est de reprendre votre code **progressivement** au fil des chapitres et de faire un commit pour chaque étapes:
 
 * A partir de votre code sur Notebook, transposez le en code sur un fichier .py (et commit)
-(tuto général) Chapitre 1: organisez votre script (et commit)
+* Chapitre 1: organisez votre script (et commit)
 * Chapitre 2: travaillez dans un environnement virtuel (et commit)
 * Chapitre 3: organisez un projet en module (et commit)
 * Chapitre 4: Gérez les erreurs et les bogues (et commit)
